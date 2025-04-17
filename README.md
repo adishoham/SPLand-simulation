@@ -1,4 +1,6 @@
-To run the SPLand Simulation:
+This was a scholl assignment that i did with a partner
+
+To run the SPLand Simulation (os has to be linux):
 
 Build the project
 Run make from the root directory.
